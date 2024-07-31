@@ -1,6 +1,6 @@
 # cust_manage
 
-A new Flutter project.
+A Flutter assignment project with CRUD operations.
 
 ## Getting Started
 
